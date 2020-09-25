@@ -4,8 +4,6 @@ output:
   bookdown::gitbook: default
 ---
 
-これはテストページです。
-
 ```{r}
 #comment
 
