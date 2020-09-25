@@ -1,0 +1,15 @@
+---
+site: bookdown::bookdown_site
+output:
+  bookdown::gitbook: default
+---
+
+これはテストページです。
+
+```{r}
+#comment
+
+1+1
+
+```
+
